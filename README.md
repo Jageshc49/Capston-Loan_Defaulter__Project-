@@ -13,8 +13,9 @@ Below are the columns have a high skewness bases on the correlation –
 	Client_ Income, Client_ Family_ Members, Child_ Count, Client_ Housing_ Type, Default
  In the above image you can see that -1 in the Red highlighted that have a very lower rate correlation.
 
- Rest miner negatives & miner positives in yellows that you can see in above image.
+Rest miner negatives & miner positives in yellows that you can see in above image.
 Analyses Categorical variables with respect to Target variable
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/692c955b-fdff-4112-b8ef-7eb44f1593db)
 
  
 From the above plot we can see that,
@@ -27,6 +28,7 @@ From the above plot we can see that,
 •	Realty agents have high repayment percentage on time as bank will think to lending a big loan amount to them.
 •	Laboure’s have high repayment percentage. Hence banks can think of lending small amount loans to them.
 Distribution of Loan _ Annuity
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/a0005a9b-580c-4297-857a-aca0fe22a804)
 
  
 We can infer from the above image that- 
@@ -34,8 +36,9 @@ We can infer from the above image that-
 •	After the describe of Loan_ Annuity columns we can impute the outliers with Median here.
 
 Client_ Income and Client_ Income _Type
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/4cfb13ec-967d-4b4b-a513-16b84254c1c7)
 
- 
+ ![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/2c4ca3f6-69c7-447f-945d-9fb6e161eaa8)
 
  
 •	Most of applicant are working.
@@ -44,6 +47,8 @@ Client_ Income and Client_ Income _Type
 •	Female applicant is more than the male applicant 
 •	Defaulter percentage is higher for female applicant.
 Insights from Numerical Bi- Variate Analysis
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/1fd2ba22-54ed-4398-9a8c-b552e472bac1)
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/71b6fef1-7e04-4fb6-881a-d746df382b77)
 
  
  
@@ -54,6 +59,7 @@ Insights,
 
 
 B. Univariate and Bivariate Analysis by using Histogram
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/c44ec7cf-3730-4114-b715-ff9d8119dd68)
  
 
  From the above Histogram plot we can say that following below points:
@@ -68,6 +74,7 @@ B. Univariate and Bivariate Analysis by using Histogram
 B.	Visual representation of Logistic Regression and KNN by using Confusion Matrix
 
 I.	Visual representation of KNN-
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/005a6962-dfdd-4b99-8550-f4d311f92e13)
 
  
 
@@ -79,6 +86,7 @@ We can infer below point from above image:
 	Bottom right quadrant = Actual value is [1] and predictive value is [1] that is True negative and the data calculated is 186.
 
 II.	Visual representation of Logistic Regression-
+![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/66669f78-8f4b-46ef-b3bf-27c52c4e4dd6)
 
  
 
