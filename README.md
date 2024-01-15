@@ -1,20 +1,5 @@
 # Capston-Loan_Defaulter__Project-
 Welcome to this project for detecting the Defaulters in loan payment and in this Project I will be performing the Exploratory Data Analysis on each and every columns for the Loan Defaulter data, and later on will try to put up the data to test for the same and will try to run some machine learning alogrithms just to predict the missing values for the Loan Defaulter Data set. we used preprocessing, Descriptive Analysis, Predictive Analysis (Regression Model: (Linear Regression) with Decision Tree Regressor with Random Forest Regressor)) Predicted with accuracy more than 80%.
-            
-# Model Accuracies:
-Model	Accuracy
-Random Forest with Randomized search CV	82.09
-Logistic Regression with Grid search CV	83.18
-Support Vector Machine with Grid search CV	82.50
-K Nearest Neighbors with Grid search CV	77.40
-Bagging with Base estimator as Random Forest	84.10
-Bagging with Base estimator as Logistic Regression	83.10
-AdaBoost Classifier	83.60
-
-check out our project report to find out why we used these models
-Technologies:
-Programming Language: Python
-Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
 
  Loan Defaulter: Exploratory Data Analysis based on Prediction
  ![image](https://github.com/Jageshc49/Capston-Loan_Defaulter__Project-/assets/155012338/14b1a409-6ebe-4d5c-b79c-3b6ceb8e6eb8)
